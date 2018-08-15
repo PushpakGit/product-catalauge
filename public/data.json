@@ -1,0 +1,39 @@
+{
+  "products": [{
+      "id": "1",
+      "name": "Chair",
+      "image": "images/chair.png",
+      "price": "$39",
+      "colors": ["red", "green", "blue"],
+      "condition": "New",
+      "description": "Black chair"
+    },
+    {
+      "id": "2",
+      "name": "Lamp",
+      "image": "images/lamp.png",
+      "price": "$319",
+      "colors": ["green", "blue"],
+      "condition": "Used",
+      "description": "Amazing lamp"
+    },
+    {
+      "id": "3",
+      "name": "Statue",
+      "image": "images/statue.png",
+      "price": "$239",
+      "colors": ["red"],
+      "condition": "Used",
+      "description": "Used statue"
+    },
+    {
+      "id": "4",
+      "name": "Seat",
+      "image": "images/seat.png",
+      "price": "$239",
+      "colors": ["blue"],
+      "condition": "New",
+      "description": "Large seat"
+    }
+  ]
+}
